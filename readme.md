@@ -114,13 +114,7 @@ project verification, and role alignment.
 
 EDUTECH was presented as part of **Team Vision4X** at **PRARAMBH 2.0**, a 24-hour online hackathon presented by the Data Science Student Association (DSSA) of D.K.T.E. Society's Textile & Engineering Institute, Ichalkaranji.
 
-### 📜 Certificate of Recognition
 
-The certificate below recognizes participation in PRARAMBH 2.0 Round 2, the presentation round, on 3 October 2026.
-
-<p align="center">
-  <img src="Hackathon_Certificate.jpeg" alt="PRARAMBH 2.0 Round 2 certificate" width="90%">
-</p>
 
 ### 💻 Project Presentation & Demonstration
 
